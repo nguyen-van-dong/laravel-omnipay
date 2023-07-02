@@ -1,5 +1,5 @@
 {
-    "name": "phpviet/dnsoft-laravel-omnipay",
+    "name": "dnsoft/laravel-omnipay",
     "description": "Laravel Omnipay hổ trợ tích hợp các cổng thanh toán trong nước.",
     "keywords": [
         "phpviet",
